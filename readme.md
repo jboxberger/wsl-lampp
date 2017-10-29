@@ -8,8 +8,8 @@ Automated LAMPP installer for the LAMPP Windows Subsystem for Linux. You can cho
 - SSH Daemon
 
 **Supported Windows Versions:**
-- Version 1703 Build 15063
-- Version 1709 Build 16299
+- Windows 10 Version 1703 Build 15063
+- Windows 10 Version 1709 Build 16299 - Fall Creators Update
 
 The WSL filesystem can be accessed over the Windows filesystem under the following path: 
 C:\Users\<user>\AppData\Local\lxss\rootfs
