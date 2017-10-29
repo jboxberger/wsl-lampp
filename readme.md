@@ -1,6 +1,6 @@
 **WSL (Windows Subsystem for Linux) LAMPP Installer**
 
-Automated LAMPP installer for the LAMPP Windows Subsystem for Linux. You can choose the modules you need During the installation.
+Automated LAMPP installer for the LAMPP Windows Subsystem for Linux. You can choose the modules you need during the installation.
 - Apache 2
 - PHP 7.0
 - MySql
