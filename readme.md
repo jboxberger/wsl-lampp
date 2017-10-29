@@ -1,6 +1,7 @@
 **WSL (Windows Subsystem for Linux) LAMPP Installer**
 
 Automated LAMPP installer for the LAMPP Windows Subsystem for Linux. You can choose the modules you need during the installation.
+
 - Apache 2
 - PHP 7.0
   - php7.0-mcrypt 
@@ -17,6 +18,8 @@ Automated LAMPP installer for the LAMPP Windows Subsystem for Linux. You can cho
 - MySql
 - PhpMyAdmin
 - SSH Daemon
+
+Please note, the WSL and the services are only running while the bash window is open. Closing the bash is equivalent to shutdown the system. Reboot is not impemented in the WSL, just close and reopen the bash window.
 
 **Supported Windows Versions:**
 - Windows 10 Version 1703 Build 15063
