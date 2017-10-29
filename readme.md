@@ -11,6 +11,8 @@ Automated LAMPP installer for the LAMPP Windows Subsystem for Linux. You can cho
 - Windows 10 Version 1703 Build 15063
 - Windows 10 Version 1709 Build 16299 - Fall Creators Update
 
+I highly recommend to install the Build 16299 (Fall Creators Update). This improves the WSL performance significantly.
+
 The WSL filesystem can be accessed over the Windows filesystem under the following path: 
 C:\Users\<user>\AppData\Local\lxss\rootfs
 
