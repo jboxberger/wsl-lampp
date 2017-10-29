@@ -15,7 +15,9 @@ The WSL filesystem can be accessed over the Windows filesystem under the followi
 C:\Users\<user>\AppData\Local\lxss\rootfs
 
 wsl-install.bat: checks windows requirements and installs the WSL
+
 wsl-install-lampp.bat: installs required lampp packages
+
 wsl-autostart.sh: starts installed daemons (apache2, mysql, ssh) on bash open
 
 License: GNU GPLv3
