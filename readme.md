@@ -8,11 +8,11 @@ Automated LAMPP installer for the LAMPP Windows Subsystem for Linux. You can cho
   - php7.0-soap 
   - php7.0-curl 
   - php7.0-gd 
-  - php-imagick 
   - php7.0-imap 
   - php7.0-xmlrpc 
   - php7.0-xsl 
   - php7.0-mbstring
+  - php-imagick
   - php-xdebug
 - MySql
 - PhpMyAdmin
