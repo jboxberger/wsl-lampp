@@ -15,7 +15,7 @@ Automated LAMPP installer for the LAMPP Windows Subsystem for Linux. You can cho
   - php7.0-mbstring
   - php-imagick
   - php-xdebug
-- MySql
+- MySQL
 - PhpMyAdmin
 - SSH Daemon
 
