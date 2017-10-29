@@ -28,7 +28,7 @@ Please note, the WSL and the services are only running while the bash window is 
 I highly recommend to install the Build 16299 (Fall Creators Update). This improves the WSL performance significantly.
 
 The WSL filesystem can be accessed over the Windows filesystem under the following path: 
-'C:\Users\\\<user>\AppData\Local\lxss\rootfs'
+C:\Users\%username%\AppData\Local\lxss\rootfs
 
 <b>wsl-install.bat:</b> checks windows requirements and installs the WSL<br />
 <b>wsl-install-lampp.bat:</b> installs required lampp packages<br />
