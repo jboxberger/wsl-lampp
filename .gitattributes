@@ -1,0 +1,3 @@
+# Default Unix Line Endings for the whole Project
+* text eol=lf
+*.bat text eol=crlf
