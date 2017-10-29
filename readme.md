@@ -14,10 +14,8 @@ Automated LAMPP installer for the LAMPP Windows Subsystem for Linux. You can cho
 The WSL filesystem can be accessed over the Windows filesystem under the following path: 
 C:\Users\<user>\AppData\Local\lxss\rootfs
 
-wsl-install.bat: checks windows requirements and installs the WSL
-
-wsl-install-lampp.bat: installs required lampp packages
-
-wsl-autostart.sh: starts installed daemons (apache2, mysql, ssh) on bash open
+<b>wsl-install.bat:</b> checks windows requirements and installs the WSL<br />
+<b>wsl-install-lampp.bat:</b> installs required lampp packages<br />
+<b>wsl-autostart.sh:</b> starts installed daemons (apache2, mysql, ssh) on bash open<br />
 
 License: GNU GPLv3
