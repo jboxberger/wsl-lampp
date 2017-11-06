@@ -20,5 +20,5 @@ if [ $(dpkg-query -W -f='${Status}' mysql-server 2>/dev/null | grep -c "ok insta
 fi
 
 if [ $(dpkg-query -W -f='${Status}' openssh-server 2>/dev/null | grep -c "ok installed") -eq 1 ]; then
-    sudo -S service ssh --full-restart > /dev/null
+    sudo -S service ssh --full-restart > /dev/null 2> /dev/null
 fi
